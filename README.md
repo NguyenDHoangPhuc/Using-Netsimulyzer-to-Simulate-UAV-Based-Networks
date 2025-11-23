@@ -4,6 +4,8 @@
 
 Dự án này sử dụng **NetSimulyzer** kết hợp với **ns-3** để mô phỏng mạng UAV (Unmanned Aerial Vehicle) trong các kịch bản tìm kiếm và cứu hộ. Đồ án tập trung vào việc nghiên cứu và đánh giá hiệu năng của mạng MANET (Mobile Ad-hoc Network) áp dụng cho UAV-based network.
 
+Link máy ảo chứa project: https://drive.google.com/file/d/1k3yNhUsZl8U-7hJUvOK-UrAyvxP6yOFp/view?usp=sharing
+
 ### 🎯 Mục tiêu
 
 - Xây dựng môi trường mô phỏng mạng UAV hoàn chỉnh
